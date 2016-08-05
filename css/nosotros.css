@@ -1,0 +1,98 @@
+.bg-img-off1{
+	background-image: url(../img/profesor_4.jpg);
+}
+.bg-img-off2{
+	background-image: url(../img/profesor_14.jpg);
+}
+.bg-img-off3{
+	background-image: url(../img/profesor_1.jpg);
+}
+.bg-img-off4{
+	background-image: url(../img/profesor_10.jpg);
+}
+.bg-img-off5{
+	background-image: url(../img/profesor_11.jpg);
+}
+.bg-img-off6{
+	background-image: url(../img/profesor_12.jpg);
+}
+.bg-img-off7{
+	background-image: url(../img/profesor_9.jpg);
+}
+.bg-img-off8{
+	background-image: url(../img/profesor_15.jpg);
+}
+.box-photo-off{
+	box-sizing: border-box;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: top center;
+	padding: 130px 5px;
+	margin: 20px;
+}
+/*HEADER*/
+.header2 {
+	background-image: url("../img/dance_7.jpg") ;
+	background-size: 130% ;
+	background-position-y:-130px;
+	background-repeat: no-repeat;
+	height: 400px;
+	color: #C3C6C5;
+}
+.box2_h {
+	width: 450px;
+	margin: 0 auto;
+	padding: 40px;
+	top: 50%;
+	transform: translateY(50%);
+}
+header p{
+	padding-top: 20px;
+}
+.pilar{
+		background-image: url(../img/cubes.png);
+		margin: 0 auto;
+		color: #C3C6C5;
+}
+.line-1{
+	background-color: black !important;
+	width: 200px;
+	height: 1px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.txt {
+	box-sizing: border-box;
+	width: 350px;
+	text-align: center;
+	padding: 70px 30px;
+}
+.box-img{
+	width: 200px;
+	margin: 20px;
+}
+.text-img{
+	box-sizing: border-box;
+	width: 280px;
+	padding:10px;
+}
+.text-img p{
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+.text-img h4{
+	font-weight: b;	
+}
+.row-photo{
+	padding-top: 30px;
+}
+.art-instructores{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.art-frase{
+	background-image: url("../img/cubes.png");
+	height: 250px	;
+	margin: 0 auto;
+}

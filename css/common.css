@@ -1,0 +1,98 @@
+.bg-blue{
+	background-color: #192951;
+}
+.bg-graydark{
+	background-color: #B9B8B8;
+}
+.blue { 
+	color: #192951;
+}
+.tittle-1 {
+	font-weight: 700;
+}
+.text-1{
+	font-size: 30px;
+	padding-top: 40px;
+}
+.text-sec-3 {
+	 position: relative;
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+	top: 70px;
+}
+/*Menu*/
+nav{
+	display: block;
+	padding-top: 30px;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	padding: 10px 30px;
+	font-weight: bolder;
+}
+.menu {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #918C8A;
+}
+
+
+/*Formulario - Seccion5*/
+.sec-5{
+	background: url("../img/shoes_1.jpg") bottom right;
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 600px;
+}
+
+#form-div {
+	position: relative;
+	width: 360px;
+	top: 90px;
+	left: 150px;
+	background-color: transparent;
+
+}
+#name {
+	position: relative;
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 32px 50px;
+	position: 10px 15px;
+	background-repeat: no-repeat;
+}
+#email {
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 32px 50px;
+	position: 11px 2px;
+	background-repeat: no-repeat;
+}
+#mensaje {
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 30px 30px;	
+	position: 11px 2px;
+	background-repeat: no-repeat;
+}
+.feedback{
+	border: 1px solid gray;
+	padding: 13px 13px 13px 50px;
+	font-size: 18px;
+	width: 425px;
+	margin: 7px;
+	background-color: transparent;
+}
+#bottom{
+	position: relative;
+	width: 100%;
+	padding: 20px 215px; 
+	top: 30px;
+	left: 8px;
+	border-radius: 5px;
+}
+#footer{
+	clear: both;
+	height: 40px;
+	padding-top: 20px;
+	padding-left: 45px;
+}

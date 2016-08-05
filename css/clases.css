@@ -1,0 +1,48 @@
+
+.bg-img-off1{
+	background-image: url(../img/dance_12.jpg);
+}
+.bg-img-off2{
+	background-image: url(../img/breakdance.jpg);
+}
+.bg-img-off3{
+	background-image: url(../img/lirical-jazz.jpg);
+}
+.bg-img-off4{
+	background-image: url(../img/arabe.jpg);
+}
+.bg-img-off5{
+	background-image: url(../img/little.jpg);
+}
+.bg-img-off6{
+	background-image: url(../img/yoga.jpg);
+}
+.box-photo-off{
+	height: 120px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 130px 5px;
+	margin:10px;
+}
+.txt-photo-off{
+	position: absolute;
+	width: 200px;
+	top: 50%;
+	transform: translateX(50%);
+	left: -5px;
+	margin: 0 auto;
+	z-index: 100;
+}
+.art-oferta{
+	background-color: #DCDCDC;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.box-off{
+	position: relative;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}

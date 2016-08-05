@@ -1,0 +1,106 @@
+p {
+  line-height: 2;
+}
+
+/*HEADER*/
+.header1 {
+	background-image: url("../img/dance_1.jpg");
+	height: 500px;
+	color: #C3C6C5;
+}
+.box-inicio{
+	position: relative;
+	width: 250px;
+	top: 50%;
+    transform: translateY(-50%);
+    left: 10%;
+}
+.tittle-2 {
+	font-size: 60px;
+	font-weight: bolder;
+	padding-bottom: 20px;
+}
+.btn-ins {
+	position: relative;
+	top: 50px;
+	width: 100px;
+	padding: 15px 30px;
+	color: #C3C6C5;
+	border-radius: 3px;
+}
+/* ARTICULO 1*/
+.sec-1{
+	background-image: url("../img/textura_2.jpg");
+	height: 450px	;
+	margin: 0 auto;
+}
+.btn-off {
+	text-decoration: none;
+	background-color: #030E1C;
+	width: 300px;
+	padding: 15px;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+}
+.orla{
+	width: 200px;
+	height: 200px;
+	margin-top: -50px;
+}
+
+/* ARTICULO 2*/
+.sec-2{
+border: 1px solid #030E1C;
+}
+.text-sec-2{
+	position: absolute;
+	padding: 20px 50px;
+	background-color: #030E1C;
+	color: white;
+	text-align: center;
+	width: 250px;
+	bottom: 0px;
+	margin-left:auto;
+	margin-right:auto;
+	left: -175px;
+}
+.sec2-imga{
+	position: relative;
+	height: 360px;
+	background: url(../img/instructor_4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top right;
+	border: 1px solid #030E1C;
+
+}
+.sec2-imgb{
+	position: relative;
+	height: 360px;
+	background: url(../img/profesor_9.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top left;
+	border: 1px solid #030E1C;
+}
+/* ARTICULO 3*/
+.sec-3{
+	background-image: url("../img/textura_2.jpg");
+	height: 300px	;
+	margin: 0 auto;
+}
+/* ARTICULO 4*/
+.sec-4{
+	background-color: #192951;
+	padding: 30px;
+	margin: 0 auto;
+}
+
+.text-sec-4{
+	color: white;
+	padding-top: 40px;
+}
+.text-sec-4 h3 {
+ padding-top: 30px;
+}
